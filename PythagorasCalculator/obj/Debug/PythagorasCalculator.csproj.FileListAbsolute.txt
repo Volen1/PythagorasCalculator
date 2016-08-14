@@ -1,0 +1,9 @@
+C:\Users\planb\Desktop\C# Projects\PythagorasCalculator\PythagorasCalculator\bin\Debug\PythagorasCalculator.exe.config
+C:\Users\planb\Desktop\C# Projects\PythagorasCalculator\PythagorasCalculator\bin\Debug\PythagorasCalculator.exe
+C:\Users\planb\Desktop\C# Projects\PythagorasCalculator\PythagorasCalculator\bin\Debug\PythagorasCalculator.pdb
+C:\Users\planb\Desktop\C# Projects\PythagorasCalculator\PythagorasCalculator\obj\Debug\PythagorasCalculator.csprojResolveAssemblyReference.cache
+C:\Users\planb\Desktop\C# Projects\PythagorasCalculator\PythagorasCalculator\obj\Debug\PythagorasCalculator.Form1.resources
+C:\Users\planb\Desktop\C# Projects\PythagorasCalculator\PythagorasCalculator\obj\Debug\PythagorasCalculator.Properties.Resources.resources
+C:\Users\planb\Desktop\C# Projects\PythagorasCalculator\PythagorasCalculator\obj\Debug\PythagorasCalculator.csproj.GenerateResource.Cache
+C:\Users\planb\Desktop\C# Projects\PythagorasCalculator\PythagorasCalculator\obj\Debug\PythagorasCalculator.exe
+C:\Users\planb\Desktop\C# Projects\PythagorasCalculator\PythagorasCalculator\obj\Debug\PythagorasCalculator.pdb
